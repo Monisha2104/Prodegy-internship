@@ -1,4 +1,4 @@
-# Prodegy-internship
+# Prodigy-internship
 Interactive Navigation Menu
 
 Description:
